@@ -9,7 +9,7 @@ This repository stores the code for paper `Chinese grammatical error correction 
 
 Pretrain: [Wikipedia](https://dumps.wikimedia.org/zhwiki/)
 
-Finetune: [NLPCC2018 Dataset](http://tcci.ccf.org.cn/conference/2018/dldoc/trainingdata02.tar.gz) [HSK 动态作文语料](http://ordostsg.org.cn:1080/KCMS/detail/detail.aspx?filename=YYJX200901008&dbcode=CJFR&dbname=)
+Finetune: [NLPCC2018 Dataset](http://tcci.ccf.org.cn/conference/2018/dldoc/trainingdata02.tar.gz) | [HSK 动态作文语料](http://ordostsg.org.cn:1080/KCMS/detail/detail.aspx?filename=YYJX200901008&dbcode=CJFR&dbname=)
 
 ## Data Process
 
