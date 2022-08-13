@@ -1,6 +1,9 @@
 # KD-CGEC
+![arXiv](https://img.shields.io/badge/paper-arXiv-XP) [![arXiv](https://img.shields.io/badge/arXiv-2208.00351-red)](https://arxiv.org/abs/2208.00351) ![Github stars](https://img.shields.io/github/stars/Richard88888/KD-CGEC.svg)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
-This repository stores the code for paper `arXiv:2208.00351` [Chinese grammatical error correction based on knowledge distillation](https://arxiv.org/abs/2208.00351) based on [HuggingFace](https://huggingface.co/)🤗.
+This repository stores the code for paper `Chinese grammatical error correction based on knowledge distillation` based on [HuggingFace](https://huggingface.co/)🤗. [[arXiv](https://arxiv.org/abs/2208.00351)]
 
 ## Data
 
