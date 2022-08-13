@@ -1,0 +1,7 @@
+numpy
+sacrebleu==1.4.14
+scikit-learn
+sentencepiece==0.1.94
+torch==1.5.1
+torchvision==0.6.0a0+35d732a
+tqdm
