@@ -65,7 +65,7 @@ python ./finetune/train.py
 ### Distillation
 
 ```
-python ./finetune/distillation.py
+python ./pretrain/distillation.py
 ```
 
 ## Reference
